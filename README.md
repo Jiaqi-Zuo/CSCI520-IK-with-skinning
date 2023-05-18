@@ -1,3 +1,4 @@
+#Inverse Kinematics with Skinning
 Core Features:
 - Linear blend skinning
 - Forward kinematics	
